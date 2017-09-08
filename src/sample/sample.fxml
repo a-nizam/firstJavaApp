@@ -13,7 +13,7 @@
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
             <Label text="Имя" />
-            <TextField>
+            <TextField fx:id="tfName">
                <HBox.margin>
                   <Insets left="10.0" top="-3.0" />
                </HBox.margin>
